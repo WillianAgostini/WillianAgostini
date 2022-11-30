@@ -17,3 +17,13 @@
 ![skills](https://skillicons.dev/icons?i=nodejs,js,ts,py,php,nestjs,angular,mongodb,postgres,docker,bash,linux,aws,gitlab&theme=light)
 
 
+## GitHub Statistics
+
+<div>
+  <a href="https://github.com/WillianAgostini">
+    <img width=450 height=170 align="center" alt="WillianAgostini" src="https://github-readme-stats.vercel.app/api?username=WillianAgostini&show_icons=true&count_private=true" />
+  </a>
+  <a href="https://github.com/WillianAgostini">
+    <img align="center" height=170 alt="WillianAgostini" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WillianAgostini&layout=compact&langs_count=5&count_private=true" />
+  </a>
+</div>
