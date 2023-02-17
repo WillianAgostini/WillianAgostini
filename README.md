@@ -14,7 +14,7 @@
 
 ## 🔧 Technologies
 
-![skills](https://skillicons.dev/icons?i=nodejs,js,ts,py,php,nestjs,angular,mongodb,postgres,docker,bash,linux,aws,gitlab&theme=light)
+![skills](https://skillicons.dev/icons?i=nodejs,js,ts,py,nestjs,mongodb,postgres,docker,bash,linux,aws,gitlab&theme=light)
 
 
 ## GitHub Statistics
