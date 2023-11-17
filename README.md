@@ -17,6 +17,32 @@
 
 ![skills](https://skillicons.dev/icons?i=nodejs,js,ts,py,nestjs,mongodb,postgres,docker,bash,linux,aws,gitlab&theme=light)
 
+## 📚 Open Source Contributions
+
+I've contributed to open-source projects like:
+
+- [`axios`](https://github.com/axios/axios): Promise based HTTP client for the browser and node.js. See my [contributions](https://github.com/axios/axios/issues?q=commenter%3AWillianAgostini).
+
+- [`pm2`](https://github.com/Unitech/pm2): PM2 is a production process manager for Node.js applications with a built-in load balancer.
+
+- [`BrasilAPI`](https://github.com/BrasilAPI/BrasilAPI): Vamos transformar o Brasil em uma API?
+
+## 📫 How to reach me
+
+You can reach me on [LinkedIn](https://www.linkedin.com/in/agostini-willian) or drop me an email at willian.agostini@gmail.com. I'll try my best to respond as soon as possible!
+
+## 🚧 Currently working on...
+
+I'm currently working as a Senior React Developer at Lean Tech. 
+
+The main tecnologies I'm using at this project are:
+- Node
+- Javascript
+- TypeScript
+- Jest
+- GitHub Actions
+  
+💬 Feel free to reach out to me for consultations, collaborations or just for some interesting discussions.
 
 ## GitHub Statistics
 
