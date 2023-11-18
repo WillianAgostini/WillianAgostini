@@ -33,9 +33,9 @@ You can reach me on [LinkedIn](https://www.linkedin.com/in/agostini-willian) or 
 
 ## 🚧 Currently working on...
 
-I'm currently working as a Senior React Developer at Lean Tech. 
+I'm currently working as a Senior Node.js Developer. 
 
-The main tecnologies I'm using at this project are:
+The main technologies I'm using for this project are:
 - Node
 - Javascript
 - TypeScript
