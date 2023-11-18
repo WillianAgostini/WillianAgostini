@@ -5,7 +5,6 @@
 
 
 - 👨‍💼 Senior Software Engineer at [Compass](https://compass.uol/en/home/)
-- 🎯 Contributor on [axios](https://github.com/axios/axios/issues?q=commenter%3AWillianAgostini) 
 - 📄 **Bachelor of Computer Engineer** at the **UNOESC**
 - 📄 **Specialization in Artificial Intelligence and Machine Learning** at the **PUC-MINAS**
 - 💻 Interested in backend development, artificial intelligence, project management
