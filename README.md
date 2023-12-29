@@ -26,6 +26,8 @@ I've contributed to open-source projects like:
 
 - [`BrasilAPI`](https://github.com/BrasilAPI/BrasilAPI): Vamos transformar o Brasil em uma API?
 
+- [`jest`](https://github.com/jestjs/jest): Delightful JavaScript Testing
+
 ## 📫 How to reach me
 
 You can reach me on [LinkedIn](https://www.linkedin.com/in/agostini-willian) or drop me an email at willian.agostini@gmail.com. I'll try my best to respond as soon as possible!
