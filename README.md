@@ -8,7 +8,6 @@
 - 📄 **Bachelor of Computer Engineer** at the **UNOESC**
 - 📄 **Specialization in Artificial Intelligence and Machine Learning** at the **PUC**
 - 💻 Interested in backend development, artificial intelligence, project management
-- 🗺️ Located near Chapecó, Brazil
 
 
 
@@ -19,7 +18,7 @@
 
 ## 📫 How to reach me
 
-You can reach me on [LinkedIn](https://www.linkedin.com/in/agostini-willian) or drop me an email at willian.agostini@gmail.com. I'll try my best to respond as soon as possible!
+You can reach me on [LinkedIn](https://www.linkedin.com/in/agostini-willian). I'll try my best to respond as soon as possible!
 
 ## 🚧 Currently working on...
 
@@ -29,8 +28,6 @@ The main technologies I'm using for this project are:
 - Node
 - Javascript
 - TypeScript
-- Jest
-- GitHub Actions
   
 💬 Feel free to reach out to me for consultations, collaborations or just for some interesting discussions.
 
